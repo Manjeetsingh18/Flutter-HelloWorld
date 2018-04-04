@@ -2,6 +2,7 @@
 
 open simulator using xcode and
 open emulator using android studio
+
 open terminal run
 ```
 open -a simulator
