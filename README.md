@@ -1,22 +1,8 @@
-# Flutter-HelloWorld
+# helloworld
 
-open simulator using xcode and
-open emulator using android studio
+A new Flutter project.
 
-open terminal run
-```
-open -a simulator
-```
-```       
-set path on termibal before run flutter command export PATH=`pwd`/flutter/bin:$PATH
-```
-after then run 
-```
-flutter doctor
-```
-for run project on simulator 
-```
-flutter run
-```
+## Getting Started
 
-                                          ***Enjoy***
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
